@@ -1,0 +1,45 @@
+﻿site,specialty,chc,hospital,private,academic,encounters_year,pcpfte,training_status,nonprofit,bhp_years,region
+26360397,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,32021,6,Not a training site,Yes,0,The South
+277103999,FM,CHC,Hospital,Not privately owned,Non-Academic site,39000,3,Training site,Yes,10,Pacific Northwest
+468632931,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,37799,9,Not a training site,Yes,0,The South
+537503866,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,18984,4,Training site,Yes,14,West Coast & Hawaii
+551586946,FM,Non-CHC,Non-Hospital,Privately owned,Non-Academic site,40973,14,Not a training site,No,5,Pacific Northwest
+660265037,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,108300,5,Training site,Yes,1,West Coast & Hawaii
+668743088,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,13360,5,Not a training site,Yes,2,Mountain
+786075897,FM,Non-CHC,Non-Hospital,Not privately owned,Academic site,26312,8,Not a training site,Yes,24,Mid Atlantic & Great Lakes
+814882048,FM,Non-CHC,Non-Hospital,Not privately owned,Academic site,10512,3,Training site,Yes,3,West Coast & Hawaii
+829877120,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,19091,6,Training site,Yes,5,Mid Atlantic & Great Lakes
+876540969,FM,Non-CHC,Hospital,Not privately owned,Academic site,4264,4,Training site,Yes,2,Mountain
+944085010,Mixed,Non-CHC,Non-Hospital,Privately owned,Non-Academic site,12000,3,Not a training site,No,2,Mid Atlantic & Great Lakes
+966737534,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,11136,3,Not a training site,Yes,12,Mountain
+1057953388,Mixed,Non-CHC,Non-Hospital,Not privately owned,Academic site,8300,7,Training site,Yes,3,West Coast & Hawaii
+1129920833,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,40000,5,Not a training site,Yes,7,New England
+1279530564,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,6049,4,Not a training site,Yes,1,New England
+1331433965,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,27231,6,Training site,Yes,10,New England
+1433296466,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,18637,4,Not a training site,Yes,0,The South
+1542349092,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,17277,4,Training site,Yes,0,New England
+1595864218,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,39119,8,Not a training site,Yes,0,The South
+1943507321,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,31528,6,Not a training site,Yes,10,The South
+1994180874,Mixed,Non-CHC,Non-Hospital,Privately owned,Non-Academic site,42201,14,Not a training site,No,0,The South
+2047939539,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,32687,8,Not a training site,Yes,8,Mountain
+2181274111,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,25522,9,Not a training site,Yes,5,Mid Atlantic & Great Lakes
+2319900098,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,13487,4,Training site,Yes,2,West Coast & Hawaii
+2367456217,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,40158,13,Not a training site,Yes,3,Mountain
+2389407362,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,20240,5,Not a training site,Yes,10,Mid Atlantic & Great Lakes
+2674796191,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,51727,12,Not a training site,Yes,16,New England
+2972103412,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,27833,6,Not a training site,Yes,1,Mountain
+2979304223,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,25459,4,Training site,Yes,12,West Coast & Hawaii
+3021745242,IM,Non-CHC,Hospital,Not privately owned,Non-Academic site,30000,11,Training site,Yes,2,West Coast & Hawaii
+3077667602,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,40000,7,Training site,Yes,25,New England
+3111179411,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,73000,3,Not a training site,Yes,10,The South
+3193166489,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,24140,4,Training site,Yes,10,Mountain
+3357394003,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,7875,2,Not a training site,Yes,6,New England
+3405385944,Mixed,CHC,Non-Hospital,Not privately owned,Non-Academic site,11651,4,Not a training site,Yes,1,New England
+3458527673,FM,Non-CHC,Non-Hospital,Privately owned,Non-Academic site,5039,2,Not a training site,No,8,West Coast & Hawaii
+3509325296,FM,Non-CHC,Hospital,Not privately owned,Non-Academic site,22034,6,Training site,Yes,10,West Coast & Hawaii
+3718830029,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,12772,4,Not a training site,Yes,0,New England
+3762727577,FM,Non-CHC,Non-Hospital,Not privately owned,Academic site,48541,5,Training site,Yes,5,Pacific Northwest
+3823699287,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,23434,8,Training site,No,26,Mountain
+3991963126,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,30638,7,Not a training site,Yes,0,The South
+4071635019,FM,CHC,Non-Hospital,Not privately owned,Non-Academic site,5253,2,Not a training site,Yes,14,New England
+4191946427,Mixed,Non-CHC,Hospital,Not privately owned,Non-Academic site,25522,9,Training site,Yes,15,Mid Atlantic & Great Lakes
