@@ -1,4 +1,4 @@
-# STAT201-final-project
+# Mental-Health-By-Race
 
 An RStudio project that visualizes statistics on anxiety and depression by race.
 
